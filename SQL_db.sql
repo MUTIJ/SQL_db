@@ -317,4 +317,5 @@ from creditSales
 --This query give the name that can come last if they are arraged in alphabetical order.
    select max(firstname)
    FROM employees
- 
+ alter table customers 
+	 add city varchar(58)
