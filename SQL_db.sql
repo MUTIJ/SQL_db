@@ -29,6 +29,7 @@ create table Admin
 	(firstName,lastName ,Age,city ,PhoneNo, salery )
 	values ('Mbithi','John',36,'Meru',0767542312, 56000)
 		insert into Admin
+	
 	(firstName,lastName ,Age,city ,PhoneNo, salery )
 	values ('Alex','kibokonye',40,'Kabuku',0709787657, 70000)
 		insert into Admin
